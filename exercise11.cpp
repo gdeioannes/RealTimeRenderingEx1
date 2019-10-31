@@ -11,7 +11,6 @@ class Point2D {
 public:
     int x;
     int y;
-
 };
 
 int ORI(Point2D p1, Point2D p2,Point2D p3);
@@ -79,7 +78,6 @@ void interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
     cout << fixed;
     cout << std::setprecision(2) << x;
     cout << " ";
-    cout << fixed;
     cout << std::setprecision(2) << y;
     cout << "\n"; 
 }
