@@ -17,6 +17,7 @@ public:
 int ORI(Point2D p1, Point2D p2,Point2D p3);
 string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q);
 string interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q);
+string getPointCords(Point2D &a);
 
 int main (){
     string line;
@@ -56,9 +57,35 @@ string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
         return interPoint(a,b,p,q);
     }
     if( ORI(a,b,p)*ORI(a,b,q)==0 && ORI(p,q,a)*ORI(p,q,b)==0){
+        if(a.x==b.x && a.y==b.y){
+            return getPointCords(a);
+        }
+        
+        if(p.x==q.x && p.y==q.y){
+            return getPointCords(q);
+        }
+        
+        if((b.x==p.x && b.y==p.y || a.x==p.x && a.y==p.y) && !(b.x==q.x && b.y==q.y || a.x==q.x && a.y==q.y)){
+            return getPointCords(p);
+        }
+        
+        if((b.x==q.x && b.y==q.y || a.x==q.x && a.y==q.y) && !(b.x==p.x && b.y==p.y || a.x==p.x && a.y==p.y)){
+            return getPointCords(q);
+        }
+        
         return "segment intersection\n";
     }
     return "no intersection\n";
+}
+
+string getPointCords(Point2D &a){
+    ostringstream text;
+    text << fixed;
+    text << std::setprecision(2) << (double)(a.x);
+    text << " ";
+    text << std::setprecision(2) << (double)(a.y);
+    text << "\n"; 
+    return text.str();
 }
 
 string interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
