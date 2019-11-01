@@ -21,7 +21,6 @@ string getPointCords(Point2D &a);
 
 int main (){
     string line;
-    
     while(getline(std::cin,line)){
         if(line == "0 0 0 0 0 0 0 0"){
             break;
@@ -30,8 +29,8 @@ int main (){
         Point2D a,b,p,q;
         ss >> a.x >> a.y >> b.x >> b.y >> p.x >> p.y >> q.x >> q.y;
         cout << Inter(a,b,p,q);
-        cout.flush();
     }
+    
     return 0;
 }
 
@@ -52,11 +51,17 @@ return 0; // p3 is inside p1,p2
 }
 
 string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
+    
+    //Cross Intersection
     if( ORI(a,b,p)*ORI(a,b,q)<0 && ORI(p,q,a)*ORI(p,q,b)<0){
-        //return "intersection\n";
+        //Get point of Intersection
         return interPoint(a,b,p,q);
     }
+    
+    //Segment intersection
     if( ORI(a,b,p)*ORI(a,b,q)==0 && ORI(p,q,a)*ORI(p,q,b)==0){
+        
+        //Segment one line has same x and y in both points return point cord
         if(a.x==b.x && a.y==b.y){
             return getPointCords(a);
         }
@@ -65,11 +70,12 @@ string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
             return getPointCords(q);
         }
         
-        if((b.x==p.x && b.y==p.y || a.x==p.x && a.y==p.y) && !(b.x==q.x && b.y==q.y || a.x==q.x && a.y==q.y)){
+        //Segment where lines have a common point
+        if(((b.x==p.x && b.y==p.y) || (a.x==p.x && a.y==p.y)) && !((b.x==q.x && b.y==q.y) || (a.x==q.x && a.y==q.y))){
             return getPointCords(p);
         }
         
-        if((b.x==q.x && b.y==q.y || a.x==q.x && a.y==q.y) && !(b.x==p.x && b.y==p.y || a.x==p.x && a.y==p.y)){
+        if(((b.x==q.x && b.y==q.y) || (a.x==q.x && a.y==q.y)) && !((b.x==p.x && b.y==p.y) || (a.x==p.x && a.y==p.y))){
             return getPointCords(q);
         }
         
@@ -80,11 +86,7 @@ string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
 
 string getPointCords(Point2D &a){
     ostringstream text;
-    text << fixed;
-    text << std::setprecision(2) << (double)(a.x);
-    text << " ";
-    text << std::setprecision(2) << (double)(a.y);
-    text << "\n"; 
+    text << fixed << std::setprecision(2) << (double)(a.x) << " " << std::setprecision(2) << (double)(a.y) << "\n";
     return text.str();
 }
 
@@ -100,10 +102,6 @@ string interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
     double y = a.y + ub*(b.y-a.y);
     
     ostringstream text;
-    text << fixed;
-    text << std::setprecision(2) << x;
-    text << " ";
-    text << std::setprecision(2) << y;
-    text << "\n"; 
+    text << fixed << std::setprecision(2) << x << " " << std::setprecision(2) << y << "\n";
     return text.str();
 }
