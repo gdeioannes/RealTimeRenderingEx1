@@ -15,22 +15,26 @@ public:
 };
 
 int ORI(Point2D p1, Point2D p2,Point2D p3);
-string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q);
-string interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q);
+void Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q);
+void interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q);
 
 int main (){
     string line;
+    ifstream myInFile;
+
+    myInFile.open ("input.txt");
     
-    while(getline(std::cin,line)){
+    while(getline(myInFile,line)){
         if(line == "0 0 0 0 0 0 0 0"){
             break;
         }
         istringstream ss(line);
         Point2D a,b,p,q;
         ss >> a.x >> a.y >> b.x >> b.y >> p.x >> p.y >> q.x >> q.y;
-        cout << Inter(a,b,p,q);
-        cout.flush();
+        Inter(a,b,p,q);
     }
+    
+    myInFile.close();
     return 0;
 }
 
@@ -50,18 +54,18 @@ if (dx31*dx31 + dy31*dy31 > dx21*dx21 + dy21*dy21) return +1; //cw
 return 0; // p3 is inside p1,p2
 }
 
-string Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
+void Inter(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
     if( ORI(a,b,p)*ORI(a,b,q)<0 && ORI(p,q,a)*ORI(p,q,b)<0){
         //return "intersection\n";
-        return interPoint(a,b,p,q);
+        interPoint(a,b,p,q);
     }
     if( ORI(a,b,p)*ORI(a,b,q)==0 && ORI(p,q,a)*ORI(p,q,b)==0){
-        return "segment intersection\n";
+        cout << "segment intersection\n";
     }
-    return "no intersection\n";
+    cout << "no intersection\n";
 }
 
-string interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
+void interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
     double ua1 = ((q.x-p.x)*(a.y-p.y)-(q.y-p.y)*(a.x-p.x));
     double ua2 = ((q.y-p.y)*(b.x-a.x)-(q.x-p.x)*(b.y-a.y));
     double ua = ua1/ua2;
@@ -71,12 +75,10 @@ string interPoint(Point2D &a, Point2D &b,Point2D &p, Point2D &q){
 
     double x = a.x + ua*(b.x-a.x);
     double y = a.y + ub*(b.y-a.y);
-    
-    ostringstream text;
-    text << fixed;
-    text << std::setprecision(2) << x;
-    text << " ";
-    text << std::setprecision(2) << y;
-    text << "\n"; 
-    return text.str();
+
+    cout << fixed;
+    cout << std::setprecision(2) << x;
+    cout << " ";
+    cout << std::setprecision(2) << y;
+    cout << "\n"; 
 }
