@@ -1,0 +1,7 @@
+1.50 1.50
+no intersection
+segment intersection
+3.00 3.00
+2.10 0.10
+2.00 2.00
+3.00 3.00

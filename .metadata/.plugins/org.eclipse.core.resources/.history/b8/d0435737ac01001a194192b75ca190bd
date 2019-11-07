@@ -1,0 +1,79 @@
+// author : Gabriel De Ioannes
+// author : Sagar Nagaraj
+
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <iomanip>
+
+using namespace std;
+
+class Point2D {
+public:
+    int x;
+    int y;
+};
+
+bool CheckPoint(Point2D a,Point2D b,Point2D c, Point2D p);
+int ORI(Point2D p1, Point2D p2,Point2D p3);
+
+int screenWidth=20;
+int screenHeight=20;
+
+int main (){
+    string line;
+    while(getline(cin,line)){
+        if(line == "0 0 0 0 0 0"){
+        	break;
+        }
+        istringstream ss(line);
+        Point2D a,b,c,p;
+        ss >> a.x >> a.y >> b.x >> b.y >> c.x >> c.y;
+        cout << ORI(a,b,c);
+        for(int i=screenHeight;i>=0;i--){
+        	cout << "\n";
+        	cout.flush();
+        	for(int j=0;j<=screenWidth;j++){
+        		p.x=j;
+        		p.y=i;
+        		if(CheckPoint(a,b,c,p)){
+        			cout << "*";
+        		}else{
+        			cout << ".";
+        		}
+        		cout.flush();
+        	}
+        }
+        cout << "\n";
+        cout.flush();
+    }
+    return 0;
+}
+
+bool CheckPoint(Point2D a,Point2D b,Point2D c, Point2D p){
+
+	if((ORI (b,c,p) == ORI (c,a,p) && ORI(a,b,p) == ORI (b,c,p)) || ){
+		return true;
+	}
+	return false;
+}
+
+bool CheckPointLine(Point2D a,Point2D b,Point2D p){
+	return (p.y-a.y)*(b.x-a.y)-(p.x-a.x)*(b.y-a.y)==0;
+}
+
+int ORI(Point2D p1, Point2D p2,Point2D p3){
+	double dx21 = p2.x - p1.x;
+	double dy21 = p2.y - p1.y;
+	double dx31 = p3.x - p1.x;
+	double dy31 = p3.y - p1.y;
+	if (dx21*dy31 < dy21*dx31) return -1; // ccw
+
+	if (dx21*dy31 > dy21*dx31) return +1; // cw
+
+	if (dx21*dx31 < 0 || dy21*dy31<0) return -1; // ccw
+
+	if (dx31*dx31 + dy31*dy31 > dx21*dx21 + dy21*dy21) return +1; //cw
+
+	return 0; // p3 is inside p1,p2
+}

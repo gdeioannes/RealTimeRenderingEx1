@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Create constant for &quot;0 0 0 0 0 0 0 0&quot;" description="Extract Constant Refactoring" fileName="file:/Users/Trendingames/Alemania/Cursos/WS_2019/Real%20Time%20Rendering/Ex1/Exercise11/src/Exercise11.cpp" flags="4" id="org.eclipse.cdt.ui.refactoring.extractconstant.ExtractConstantRefactoring" name="_0_0_0_0_0_0_0_0" replaceAll="true" selection="515,15" stamp="1573086050952" visibility="private"/>
+</session>

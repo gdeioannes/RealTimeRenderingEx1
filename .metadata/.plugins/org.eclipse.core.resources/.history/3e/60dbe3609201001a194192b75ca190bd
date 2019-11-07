@@ -1,0 +1,56 @@
+// author : Gabriel De Ioannes
+// author : Sagar Nagaraj
+
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <iomanip>
+
+using namespace std;
+
+class Point2D {
+public:
+    int x;
+    int y;
+};
+
+bool CheckPoint(Point2D a,Point2D b,Point2D c);
+
+int screenWidth=20;
+int screenHeight=20;
+
+int main (){
+    string line;
+    while(getline(cin,line)){
+        if(line == "0 0 0 0 0 0"){
+        	break;
+        }
+        istringstream ss(line);
+        Point2D a,b,c,d;
+        ss >> a.x >> a.y >> b.x >> b.y >> c.x >> c.y;
+        for(int i=screenHeight;i>=0;i--){
+        	cout << "\n";
+        	cout.flush();
+        	for(int j=0;j<=screenWidth;j++){
+        		d.x=j;
+        		d.y=i;
+        		if(CheckPoint(a,b,d) || CheckPoint(b,c,d) || CheckPoint(c,a,d)){
+        			cout << "*";
+        		}else{
+        			cout << ".";
+        		}
+        		cout.flush();
+        	}
+        }
+        cout << "\n";
+        cout.flush();
+    }
+    return 0;
+}
+
+bool CheckPoint(Point2D a,Point2D b,Point2D c){
+	double num=(c.y-a.y)*(b.x-a.x)-(c.x-a.x)*(b.y-a.y);
+
+	return num==0;
+
+}
