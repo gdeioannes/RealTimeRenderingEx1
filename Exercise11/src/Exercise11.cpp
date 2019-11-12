@@ -18,19 +18,22 @@ int ORI(Point2D p1, Point2D p2,Point2D p3);
 string Inter(Point2D a, Point2D b,Point2D p, Point2D q);
 string InterPoint(Point2D a, Point2D b,Point2D p, Point2D q);
 string GetPointCords(Point2D a);
-string word;
 
 int main (){
+	bool beginFlag=false;
     string line;
     while(getline(cin,line)){
         if(line == "0 0 0 0 0 0 0 0"){
         	break;
+        }else if(beginFlag){
+        	cout << "\n";
         }
         istringstream ss(line);
         Point2D a,b,p,q;
         ss >> a.x >> a.y >> b.x >> b.y >> p.x >> p.y >> q.x >> q.y;
-        cout << Inter(a,b,p,q) << "\n";
+        cout << Inter(a,b,p,q);
         cout.flush();
+        beginFlag=true;
     }
     return 0;
 }

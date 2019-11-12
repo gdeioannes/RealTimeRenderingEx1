@@ -1,15 +1,6 @@
-23:43:30 **** Build of configuration Debug for project Exercise12 ****
+18:15:05 **** Incremental Build of configuration Debug for project Exercise12 ****
 make all 
-Building file: ../src/Exercise12.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise12.d" -MT"src/Exercise12.o" -o "src/Exercise12.o" "../src/Exercise12.cpp"
-Finished building: ../src/Exercise12.cpp
- 
-Building target: Exercise12
-Invoking: MacOS X C++ Linker
-g++  -o "Exercise12"  ./src/Exercise12.o   
-Finished building target: Exercise12
- 
+make: Nothing to be done for `all'.
 
-23:43:31 Build Finished. 0 errors, 0 warnings. (took 720ms)
+18:15:05 Build Finished. 0 errors, 0 warnings. (took 75ms)
 

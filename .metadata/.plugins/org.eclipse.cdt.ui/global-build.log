@@ -1777,3 +1777,1306 @@ Invoking: MacOS X C++ Linker
 g++  -o "Exercise12"  ./src/Exercise12.o   
 Finished building target: Exercise12
  
+17:31:37 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:31:40 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:40:07 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+17:40:20 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+17:40:27 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+17:40:45 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+20:16:32 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+20:16:52 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:17:06 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:17:16 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:18:11 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:18:30 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:18:37 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:45:35 **** Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+20:45:36 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+20:45:36 **** Incremental Build of configuration Debug for project Exercise12 ****
+make all 
+make: Nothing to be done for `all'.
+20:46:36 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+make: Nothing to be done for `all'.
+20:47:36 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+17:51:52 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:52:00 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:52:20 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:52:58 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:53:08 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+17:53:27 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:05:27 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:05:32 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:05:34 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:05:34 **** Incremental Build of configuration Debug for project Exercise12 ****
+make all 
+make: Nothing to be done for `all'.
+18:05:38 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:05:59 **** Clean-only build of configuration Debug for project ExTestCases ****
+make clean 
+rm -rf  ./src/ExTestCases.o  ./src/ExTestCases.d  ExTestCases
+ 
+18:05:59 **** Clean-only build of configuration Debug for project Exercise11 ****
+make clean 
+rm -rf  ./src/Exercise11.o  ./src/Exercise11.d  Exercise11
+ 
+18:05:59 **** Clean-only build of configuration Debug for project Exercise12 ****
+make clean 
+rm -rf  ./src/Exercise12.o  ./src/Exercise12.d  Exercise12
+ 
+18:06:06 **** Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:06:07 **** Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+18:06:08 **** Build of configuration Debug for project Exercise12 ****
+make all 
+Building file: ../src/Exercise12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise12.d" -MT"src/Exercise12.o" -o "src/Exercise12.o" "../src/Exercise12.cpp"
+Finished building: ../src/Exercise12.cpp
+ 
+Building target: Exercise12
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise12"  ./src/Exercise12.o   
+Finished building target: Exercise12
+ 
+18:06:14 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:06:20 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:06:56 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:07:01 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:07:09 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:07:41 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:12:25 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:14:47 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:15:04 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:15:05 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+18:15:05 **** Incremental Build of configuration Debug for project Exercise12 ****
+make all 
+make: Nothing to be done for `all'.
+18:15:10 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+make: Nothing to be done for `all'.
+18:15:32 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+../src/ExTestCases.cpp:18:12: error: assigning to 'std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> >::value_type' (aka 'char') from incompatible type 'const char [2]'
+                        text[0]="1";
+                                ^~~
+1 error generated.
+make: *** [src/ExTestCases.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+18:19:04 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:19:21 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+18:19:51 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+Building file: ../src/ExTestCases.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/ExTestCases.d" -MT"src/ExTestCases.o" -o "src/ExTestCases.o" "../src/ExTestCases.cpp"
+Finished building: ../src/ExTestCases.cpp
+ 
+Building target: ExTestCases
+Invoking: MacOS X C++ Linker
+g++  -o "ExTestCases"  ./src/ExTestCases.o   
+Finished building target: ExTestCases
+ 
+19:01:58 **** Incremental Build of configuration Debug for project ExTestCases ****
+make all 
+make: Nothing to be done for `all'.
+19:02:03 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:02:23 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:03:23 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:03:43 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:04:55 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:16:41 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:17:43 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+19:18:36 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+21:33:18 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+21:33:41 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+21:33:55 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:16: error: invalid operands to binary expression ('const char [1]' and 'basic_istream<char, std::__1::char_traits<char> >')
+        cout << ""+getline(cin,line);
+                ~~^~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iterator:761:1: note: candidate template ignored: could not match 'reverse_iterator' against 'basic_istream'
+operator+(typename reverse_iterator<_Iter>::difference_type __n, const reverse_iterator<_Iter>& __x)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iterator:1202:1: note: candidate template ignored: could not match 'move_iterator' against 'basic_istream'
+operator+(typename move_iterator<_Iter>::difference_type __n, const move_iterator<_Iter>& __x)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iterator:1618:1: note: candidate template ignored: could not match '__wrap_iter' against 'basic_istream'
+operator+(typename __wrap_iter<_Iter>::difference_type __n,
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/string:3993:1: note: candidate template ignored: could not match 'basic_string<type-parameter-0-0, type-parameter-0-1, type-parameter-0-2>' against 'char const[1]'
+operator+(const basic_string<_CharT, _Traits, _Allocator>& __lhs,
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/string:4006:1: note: candidate template ignored: could not match 'basic_string' against 'basic_istream'
+operator+(const _CharT* __lhs , const basic_string<_CharT,_Traits,_Allocator>& __rhs)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/string:4018:1: note: candidate template ignored: could not match 'basic_string' against 'basic_istream'
+operator+(_CharT __lhs, const basic_string<_CharT,_Traits,_Allocator>& __rhs)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/string:4029:1: note: candidate template ignored: could not match 'basic_string<type-parameter-0-0, type-parameter-0-1, type-parameter-0-2>' against 'char const[1]'
+operator+(const basic_string<_CharT, _Traits, _Allocator>& __lhs, const _CharT* __rhs)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/string:4041:1: note: candidate template ignored: could not match 'basic_string<type-parameter-0-0, type-parameter-0-1, type-parameter-0-2>' against 'char const[1]'
+operator+(const basic_string<_CharT, _Traits, _Allocator>& __lhs, _CharT __rhs)
+^
+1 error generated.
+make: *** [src/Exercise11.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:35:44 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:9: error: invalid operands to binary expression ('std::__1::istream' (aka 'basic_istream<char>') and 'std::__1::istringstream' (aka 'basic_istringstream<char>'))
+    cin >> fileText;
+    ~~~ ^  ~~~~~~~~
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:220:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'std::__1::basic_istream<char> &(*)(std::__1::basic_istream<char> &)' for 1st argument
+    basic_istream& operator>>(basic_istream& (*__pf)(basic_istream&))
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:224:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'basic_ios<std::__1::basic_istream<char, std::__1::char_traits<char> >::char_type, std::__1::basic_istream<char, std::__1::char_traits<char> >::traits_type> &(*)(basic_ios<std::__1::basic_istream<char, std::__1::char_traits<char> >::char_type, std::__1::basic_istream<char, std::__1::char_traits<char> >::traits_type> &)' (aka 'basic_ios<char, std::__1::char_traits<char> > &(*)(basic_ios<char, std::__1::char_traits<char> > &)') for 1st argument
+    basic_istream& operator>>(basic_ios<char_type, traits_type>&
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:229:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'std::__1::ios_base &(*)(std::__1::ios_base &)' for 1st argument
+    basic_istream& operator>>(ios_base& (*__pf)(ios_base&))
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:232:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'basic_streambuf<std::__1::basic_istream<char, std::__1::char_traits<char> >::char_type, std::__1::basic_istream<char, std::__1::char_traits<char> >::traits_type> *' (aka 'basic_streambuf<char, std::__1::char_traits<char> > *') for 1st argument
+    basic_istream& operator>>(basic_streambuf<char_type, traits_type>* __sb);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:233:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'bool &' for 1st argument
+    basic_istream& operator>>(bool& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:234:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'short &' for 1st argument
+    basic_istream& operator>>(short& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:235:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'unsigned short &' for 1st argument
+    basic_istream& operator>>(unsigned short& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:236:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'int &' for 1st argument
+    basic_istream& operator>>(int& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:237:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'unsigned int &' for 1st argument
+    basic_istream& operator>>(unsigned int& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:238:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'long &' for 1st argument
+    basic_istream& operator>>(long& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:239:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'unsigned long &' for 1st argument
+    basic_istream& operator>>(unsigned long& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:240:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'long long &' for 1st argument
+    basic_istream& operator>>(long long& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:241:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'unsigned long long &' for 1st argument
+    basic_istream& operator>>(unsigned long long& __n);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:242:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'float &' for 1st argument
+    basic_istream& operator>>(float& __f);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:243:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'double &' for 1st argument
+    basic_istream& operator>>(double& __f);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:244:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'long double &' for 1st argument
+    basic_istream& operator>>(long double& __f);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:245:20: note: candidate function not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'void *&' for 1st argument
+    basic_istream& operator>>(void*& __p);
+                   ^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:570:1: note: candidate function template not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'unsigned char *' for 2nd argument
+operator>>(basic_istream<char, _Traits>& __is, unsigned char* __s)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:578:1: note: candidate function template not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'signed char *' for 2nd argument
+operator>>(basic_istream<char, _Traits>& __is, signed char* __s)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:613:1: note: candidate function template not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'unsigned char &' for 2nd argument
+operator>>(basic_istream<char, _Traits>& __is, unsigned char& __c)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:621:1: note: candidate function template not viable: no known conversion from 'std::__1::istringstream' (aka 'basic_istringstream<char>') to 'signed char &' for 2nd argument
+operator>>(basic_istream<char, _Traits>& __is, signed char& __c)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:585:1: note: candidate template ignored: deduced conflicting types for parameter '_CharT' ('char' vs. 'std::__1::basic_istringstream<char, std::__1::char_traits<char>, std::__1::allocator<char> >')
+operator>>(basic_istream<_CharT, _Traits>& __is, _CharT& __c)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:521:1: note: candidate template ignored: could not match '_CharT *' against 'std::__1::istringstream' (aka 'basic_istringstream<char>')
+operator>>(basic_istream<_CharT, _Traits>& __is, _CharT* __s)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:1287:1: note: candidate template ignored: could not match 'basic_string' against 'basic_istringstream'
+operator>>(basic_istream<_CharT, _Traits>& __is,
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/istream:1419:1: note: candidate template ignored: could not match 'bitset' against 'basic_istringstream'
+operator>>(basic_istream<_CharT, _Traits>& __is, bitset<_Size>& __x)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iomanip:302:1: note: candidate template ignored: could not match '__iom_t7' against 'basic_istringstream'
+operator>>(basic_istream<_CharT, _Traits>& __is, const __iom_t7<_MoneyT>& __x)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iomanip:421:1: note: candidate template ignored: could not match '__iom_t9' against 'basic_istringstream'
+operator>>(basic_istream<_CharT, _Traits>& __is, const __iom_t9<_CharT>& __x)
+^
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iomanip:602:33: note: candidate template ignored: could not match '__quoted_proxy' against 'basic_istringstream'
+basic_istream<_CharT, _Traits>& operator>>(
+                                ^
+1 error generated.
+make: *** [src/Exercise11.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:47:21 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+21:47:37 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+21:48:49 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:22:18: warning: initialization of pointer of type 'const char *' to null from a constant boolean expression [-Wbool-conversion]
+string beginFlag=false;
+                 ^~~~~
+../src/Exercise11.cpp:29:18: error: no viable conversion from 'std::__1::string' (aka 'basic_string<char, char_traits<char>, allocator<char> >') to 'bool'
+        }else if(beginFlag){
+                 ^~~~~~~~~
+/Library/Developer/CommandLineTools/usr/include/c++/v1/string:869:5: note: candidate function
+    operator __self_view() const _NOEXCEPT { return __self_view(data(), size()); }
+    ^
+1 warning and 1 error generated.
+make: *** [src/Exercise11.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:52:53 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+21:54:23 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+21:54:39 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+21:55:43 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+21:56:30 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:00:55 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+22:14:10 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:17:26 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:17:33 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:44:49 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:49:22 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:52:06 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:52:24 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+22:53:14 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:16:38 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:17:02 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:20:45 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:7: warning: variable 'finishFlag' is used uninitialized whenever function 'main' is called [-Wsometimes-uninitialized]
+        bool finishFlag;
+        ~~~~~^~~~~~~~~~
+../src/Exercise11.cpp:29:11: note: uninitialized use occurs here
+    while(finishFlag){
+          ^~~~~~~~~~
+../src/Exercise11.cpp:26:17: note: initialize the variable 'finishFlag' to silence this warning
+        bool finishFlag;
+                       ^
+                        = false
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:20:57 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:7: warning: variable 'finishFlag' is used uninitialized whenever function 'main' is called [-Wsometimes-uninitialized]
+        bool finishFlag;
+        ~~~~~^~~~~~~~~~
+../src/Exercise11.cpp:29:11: note: uninitialized use occurs here
+    while(finishFlag){
+          ^~~~~~~~~~
+../src/Exercise11.cpp:26:17: note: initialize the variable 'finishFlag' to silence this warning
+        bool finishFlag;
+                       ^
+                        = false
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:21:24 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:7: warning: variable 'finishFlag' is used uninitialized whenever function 'main' is called [-Wsometimes-uninitialized]
+        bool finishFlag;
+        ~~~~~^~~~~~~~~~
+../src/Exercise11.cpp:29:11: note: uninitialized use occurs here
+    while(finishFlag){
+          ^~~~~~~~~~
+../src/Exercise11.cpp:26:17: note: initialize the variable 'finishFlag' to silence this warning
+        bool finishFlag;
+                       ^
+                        = false
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:21:36 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:22:09 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:7: warning: variable 'finishFlag' is used uninitialized whenever function 'main' is called [-Wsometimes-uninitialized]
+        bool finishFlag;
+        ~~~~~^~~~~~~~~~
+../src/Exercise11.cpp:29:11: note: uninitialized use occurs here
+    while(finishFlag){
+          ^~~~~~~~~~
+../src/Exercise11.cpp:26:17: note: initialize the variable 'finishFlag' to silence this warning
+        bool finishFlag;
+                       ^
+                        = false
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:22:11 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:22:27 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:7: warning: variable 'finishFlag' is used uninitialized whenever function 'main' is called [-Wsometimes-uninitialized]
+        bool finishFlag;
+        ~~~~~^~~~~~~~~~
+../src/Exercise11.cpp:29:11: note: uninitialized use occurs here
+    while(finishFlag){
+          ^~~~~~~~~~
+../src/Exercise11.cpp:26:17: note: initialize the variable 'finishFlag' to silence this warning
+        bool finishFlag;
+                       ^
+                        = false
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:23:10 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:26:41 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:26:47 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:26:50 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:26:51 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:27:28 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:27:45 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:28:09 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:33:41 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:26:7: warning: unused variable 'finishFlag' [-Wunused-variable]
+        bool finishFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:35:37 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:35:58 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:36:18 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:36:46 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:41:01 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:41:15 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:41:36 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:42:41 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:43:58 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:44:12 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:44:27 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:45:58 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:46:09 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:27:9: warning: unused variable 'count' [-Wunused-variable]
+    int count = 0;
+        ^
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+2 warnings generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:46:21 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:27:9: warning: unused variable 'count' [-Wunused-variable]
+    int count = 0;
+        ^
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+2 warnings generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:46:28 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:27:9: warning: unused variable 'count' [-Wunused-variable]
+    int count = 0;
+        ^
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+2 warnings generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:46:39 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:46:47 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:46:58 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:47:08 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:47:28 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:48:05 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:48:08 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+23:48:18 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:49:32 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:49:39 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+23:49:47 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+../src/Exercise11.cpp:25:7: warning: unused variable 'beginFlag' [-Wunused-variable]
+        bool beginFlag;
+             ^
+1 warning generated.
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+00:09:47 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+00:09:54 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+00:09:57 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.
+00:10:17 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+00:10:37 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+Building file: ../src/Exercise11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Exercise11.d" -MT"src/Exercise11.o" -o "src/Exercise11.o" "../src/Exercise11.cpp"
+Finished building: ../src/Exercise11.cpp
+ 
+Building target: Exercise11
+Invoking: MacOS X C++ Linker
+g++  -o "Exercise11"  ./src/Exercise11.o   
+Finished building target: Exercise11
+ 
+00:10:54 **** Incremental Build of configuration Debug for project Exercise11 ****
+make all 
+make: Nothing to be done for `all'.

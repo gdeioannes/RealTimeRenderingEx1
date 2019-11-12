@@ -12,7 +12,7 @@
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="/Users/Trendingames/Alemania/Cursos/WS_2019/Real Time Rendering/Ex1/Exercise11/output.txt"/>
-<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_STDIN_FILE" value="/Users/Trendingames/Alemania/Cursos/WS_2019/Real Time Rendering/Ex1/Exercise11/input.txt"/>
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="/Users/Trendingames/Alemania/Cursos/WS_2019/Real Time Rendering/RealTimeRenderingEx1/Exercise11/output.txt"/>
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_STDIN_FILE" value="/Users/Trendingames/Alemania/Cursos/WS_2019/Real Time Rendering/RealTimeRenderingEx1/Exercise11/input_.txt"/>
 <stringAttribute key="process_factory_id" value="org.eclipse.cdt.dsf.gdb.GdbProcessFactory"/>
 </launchConfiguration>
