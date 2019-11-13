@@ -6,7 +6,7 @@ no intersection
 4.00 0.00
 0.00 1.00
 -1.00 -1.00
-1.00 1.00
+3.00 3.00
 1.00 1.00
 1.00 1.00
 no intersection
@@ -19,6 +19,7 @@ segment intersection
 segment intersection
 2.00 2.00
 no intersection
+2.00 2.00
 2.00 2.00
 2.00 2.00
 2.00 2.00

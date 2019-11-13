@@ -62,7 +62,7 @@ string Inter(Point2D a, Point2D b,Point2D p, Point2D q){
         return InterPoint(a,b,p,q);
     }
 
-    //Segment intersection
+    //Segment and point intersection
     if( ORI(a,b,p)*ORI(a,b,q)==0 && ORI(p,q,a)*ORI(p,q,b)==0){
 
         //Segment one line has same x and y in both points return point cord
